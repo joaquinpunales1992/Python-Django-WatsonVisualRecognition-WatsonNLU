@@ -1,0 +1,6 @@
+ applications:
+ - name: watsonVR_demo
+   random-route: true
+   memory: 256M
+   command: sh run.sh
+   buildpack:  python_buildpack

@@ -1,0 +1,17 @@
+{
+    "watsonVisualRecognition":{
+        "vAPIKey": "868b9f7ba1beb9cd3ef77236760fea74bac9af26",
+        "vAPIVersion": "2017-10-01",
+        "vIdClasificador": "vehiculos_1330359903",
+        "vUmbralMinScore_WVR": 0.5
+    },
+    "watsonNLU":{
+          "vAPIUser": "c9e6b3e2-f90c-4c33-ad96-791a70290edb",
+          "vAPIPass": "fPHQgscNJFS4" ,
+          "vAPIVersion": "2017-10-01",
+          "vUmbralMinScore_WNLU": 0.1
+        },
+      "otros":{
+          "vUmbralMinDescripcion": 10
+      }
+    }
