@@ -1,1 +1,1 @@
-# Python-Django-WatsonVisualRecognition-WatsonNLU
+# Python-Django-WatsonVisualRecognition-WatsonNLU Watson
